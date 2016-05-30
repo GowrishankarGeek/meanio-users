@@ -15,7 +15,7 @@
     "npm": "3.x"
   },
   "scripts": {
-    "postinstall" : "bower install"
+    "postinstall" : "bower install --allow-root"
   },
   "dependencies": {
     "passport-facebook": "latest",
